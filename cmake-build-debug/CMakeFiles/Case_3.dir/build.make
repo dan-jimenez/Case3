@@ -78,19 +78,64 @@ CMakeFiles/Case_3.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Case_3.dir/main.cpp.s"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\estadm\OneDrive - Estudiantes ITCR\TEC - Software Engineering\2021 - II Semestre\ED\Homeworks\Case 3\main.cpp" -o CMakeFiles\Case_3.dir\main.cpp.s
 
+CMakeFiles/Case_3.dir/MontaCarga.cpp.obj: CMakeFiles/Case_3.dir/flags.make
+CMakeFiles/Case_3.dir/MontaCarga.cpp.obj: ../MontaCarga.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\estadm\OneDrive - Estudiantes ITCR\TEC - Software Engineering\2021 - II Semestre\ED\Homeworks\Case 3\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Case_3.dir/MontaCarga.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Case_3.dir\MontaCarga.cpp.obj -c "C:\Users\estadm\OneDrive - Estudiantes ITCR\TEC - Software Engineering\2021 - II Semestre\ED\Homeworks\Case 3\MontaCarga.cpp"
+
+CMakeFiles/Case_3.dir/MontaCarga.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Case_3.dir/MontaCarga.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\estadm\OneDrive - Estudiantes ITCR\TEC - Software Engineering\2021 - II Semestre\ED\Homeworks\Case 3\MontaCarga.cpp" > CMakeFiles\Case_3.dir\MontaCarga.cpp.i
+
+CMakeFiles/Case_3.dir/MontaCarga.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Case_3.dir/MontaCarga.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\estadm\OneDrive - Estudiantes ITCR\TEC - Software Engineering\2021 - II Semestre\ED\Homeworks\Case 3\MontaCarga.cpp" -o CMakeFiles\Case_3.dir\MontaCarga.cpp.s
+
+CMakeFiles/Case_3.dir/Bodega.cpp.obj: CMakeFiles/Case_3.dir/flags.make
+CMakeFiles/Case_3.dir/Bodega.cpp.obj: ../Bodega.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\estadm\OneDrive - Estudiantes ITCR\TEC - Software Engineering\2021 - II Semestre\ED\Homeworks\Case 3\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Case_3.dir/Bodega.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Case_3.dir\Bodega.cpp.obj -c "C:\Users\estadm\OneDrive - Estudiantes ITCR\TEC - Software Engineering\2021 - II Semestre\ED\Homeworks\Case 3\Bodega.cpp"
+
+CMakeFiles/Case_3.dir/Bodega.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Case_3.dir/Bodega.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\estadm\OneDrive - Estudiantes ITCR\TEC - Software Engineering\2021 - II Semestre\ED\Homeworks\Case 3\Bodega.cpp" > CMakeFiles\Case_3.dir\Bodega.cpp.i
+
+CMakeFiles/Case_3.dir/Bodega.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Case_3.dir/Bodega.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\estadm\OneDrive - Estudiantes ITCR\TEC - Software Engineering\2021 - II Semestre\ED\Homeworks\Case 3\Bodega.cpp" -o CMakeFiles\Case_3.dir\Bodega.cpp.s
+
+CMakeFiles/Case_3.dir/Pedido.cpp.obj: CMakeFiles/Case_3.dir/flags.make
+CMakeFiles/Case_3.dir/Pedido.cpp.obj: ../Pedido.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\estadm\OneDrive - Estudiantes ITCR\TEC - Software Engineering\2021 - II Semestre\ED\Homeworks\Case 3\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Case_3.dir/Pedido.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Case_3.dir\Pedido.cpp.obj -c "C:\Users\estadm\OneDrive - Estudiantes ITCR\TEC - Software Engineering\2021 - II Semestre\ED\Homeworks\Case 3\Pedido.cpp"
+
+CMakeFiles/Case_3.dir/Pedido.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Case_3.dir/Pedido.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\estadm\OneDrive - Estudiantes ITCR\TEC - Software Engineering\2021 - II Semestre\ED\Homeworks\Case 3\Pedido.cpp" > CMakeFiles\Case_3.dir\Pedido.cpp.i
+
+CMakeFiles/Case_3.dir/Pedido.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Case_3.dir/Pedido.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\estadm\OneDrive - Estudiantes ITCR\TEC - Software Engineering\2021 - II Semestre\ED\Homeworks\Case 3\Pedido.cpp" -o CMakeFiles\Case_3.dir\Pedido.cpp.s
+
 # Object files for target Case_3
 Case_3_OBJECTS = \
-"CMakeFiles/Case_3.dir/main.cpp.obj"
+"CMakeFiles/Case_3.dir/main.cpp.obj" \
+"CMakeFiles/Case_3.dir/MontaCarga.cpp.obj" \
+"CMakeFiles/Case_3.dir/Bodega.cpp.obj" \
+"CMakeFiles/Case_3.dir/Pedido.cpp.obj"
 
 # External object files for target Case_3
 Case_3_EXTERNAL_OBJECTS =
 
 Case_3.exe: CMakeFiles/Case_3.dir/main.cpp.obj
+Case_3.exe: CMakeFiles/Case_3.dir/MontaCarga.cpp.obj
+Case_3.exe: CMakeFiles/Case_3.dir/Bodega.cpp.obj
+Case_3.exe: CMakeFiles/Case_3.dir/Pedido.cpp.obj
 Case_3.exe: CMakeFiles/Case_3.dir/build.make
 Case_3.exe: CMakeFiles/Case_3.dir/linklibs.rsp
 Case_3.exe: CMakeFiles/Case_3.dir/objects1.rsp
 Case_3.exe: CMakeFiles/Case_3.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\estadm\OneDrive - Estudiantes ITCR\TEC - Software Engineering\2021 - II Semestre\ED\Homeworks\Case 3\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Case_3.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\estadm\OneDrive - Estudiantes ITCR\TEC - Software Engineering\2021 - II Semestre\ED\Homeworks\Case 3\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Case_3.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Case_3.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

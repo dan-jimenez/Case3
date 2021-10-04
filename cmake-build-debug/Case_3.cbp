@@ -80,6 +80,24 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/estadm/OneDrive - Estudiantes ITCR/TEC - Software Engineering/2021 - II Semestre/ED/Homeworks/Case 3/Bodega.cpp">
+			<Option target="Case_3"/>
+		</Unit>
+		<Unit filename="C:/Users/estadm/OneDrive - Estudiantes ITCR/TEC - Software Engineering/2021 - II Semestre/ED/Homeworks/Case 3/Bodega.h">
+			<Option target="Case_3"/>
+		</Unit>
+		<Unit filename="C:/Users/estadm/OneDrive - Estudiantes ITCR/TEC - Software Engineering/2021 - II Semestre/ED/Homeworks/Case 3/MontaCarga.cpp">
+			<Option target="Case_3"/>
+		</Unit>
+		<Unit filename="C:/Users/estadm/OneDrive - Estudiantes ITCR/TEC - Software Engineering/2021 - II Semestre/ED/Homeworks/Case 3/MontaCargas.h">
+			<Option target="Case_3"/>
+		</Unit>
+		<Unit filename="C:/Users/estadm/OneDrive - Estudiantes ITCR/TEC - Software Engineering/2021 - II Semestre/ED/Homeworks/Case 3/Pedido.cpp">
+			<Option target="Case_3"/>
+		</Unit>
+		<Unit filename="C:/Users/estadm/OneDrive - Estudiantes ITCR/TEC - Software Engineering/2021 - II Semestre/ED/Homeworks/Case 3/Pedido.h">
+			<Option target="Case_3"/>
+		</Unit>
 		<Unit filename="C:/Users/estadm/OneDrive - Estudiantes ITCR/TEC - Software Engineering/2021 - II Semestre/ED/Homeworks/Case 3/main.cpp">
 			<Option target="Case_3"/>
 		</Unit>

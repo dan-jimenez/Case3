@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/estadm/OneDrive - Estudiantes ITCR/TEC - Software Engineering/2021 - II Semestre/ED/Homeworks/Case 3/Bodega.h
+iostream
+-
+
+C:/Users/estadm/OneDrive - Estudiantes ITCR/TEC - Software Engineering/2021 - II Semestre/ED/Homeworks/Case 3/Pedido.h
+iostream
+-
+
+C:/Users/estadm/OneDrive - Estudiantes ITCR/TEC - Software Engineering/2021 - II Semestre/ED/Homeworks/Case 3/main.cpp
+Bodega.h
+C:/Users/estadm/OneDrive - Estudiantes ITCR/TEC - Software Engineering/2021 - II Semestre/ED/Homeworks/Case 3/Bodega.h
+Pedido.h
+C:/Users/estadm/OneDrive - Estudiantes ITCR/TEC - Software Engineering/2021 - II Semestre/ED/Homeworks/Case 3/Pedido.h
+

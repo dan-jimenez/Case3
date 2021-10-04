@@ -128,6 +128,78 @@ Case_3/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Case_3.dir\build.make CMakeFiles/Case_3.dir/build
 .PHONY : Case_3/fast
 
+Bodega.obj: Bodega.cpp.obj
+.PHONY : Bodega.obj
+
+# target to build an object file
+Bodega.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Case_3.dir\build.make CMakeFiles/Case_3.dir/Bodega.cpp.obj
+.PHONY : Bodega.cpp.obj
+
+Bodega.i: Bodega.cpp.i
+.PHONY : Bodega.i
+
+# target to preprocess a source file
+Bodega.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Case_3.dir\build.make CMakeFiles/Case_3.dir/Bodega.cpp.i
+.PHONY : Bodega.cpp.i
+
+Bodega.s: Bodega.cpp.s
+.PHONY : Bodega.s
+
+# target to generate assembly for a file
+Bodega.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Case_3.dir\build.make CMakeFiles/Case_3.dir/Bodega.cpp.s
+.PHONY : Bodega.cpp.s
+
+MontaCarga.obj: MontaCarga.cpp.obj
+.PHONY : MontaCarga.obj
+
+# target to build an object file
+MontaCarga.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Case_3.dir\build.make CMakeFiles/Case_3.dir/MontaCarga.cpp.obj
+.PHONY : MontaCarga.cpp.obj
+
+MontaCarga.i: MontaCarga.cpp.i
+.PHONY : MontaCarga.i
+
+# target to preprocess a source file
+MontaCarga.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Case_3.dir\build.make CMakeFiles/Case_3.dir/MontaCarga.cpp.i
+.PHONY : MontaCarga.cpp.i
+
+MontaCarga.s: MontaCarga.cpp.s
+.PHONY : MontaCarga.s
+
+# target to generate assembly for a file
+MontaCarga.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Case_3.dir\build.make CMakeFiles/Case_3.dir/MontaCarga.cpp.s
+.PHONY : MontaCarga.cpp.s
+
+Pedido.obj: Pedido.cpp.obj
+.PHONY : Pedido.obj
+
+# target to build an object file
+Pedido.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Case_3.dir\build.make CMakeFiles/Case_3.dir/Pedido.cpp.obj
+.PHONY : Pedido.cpp.obj
+
+Pedido.i: Pedido.cpp.i
+.PHONY : Pedido.i
+
+# target to preprocess a source file
+Pedido.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Case_3.dir\build.make CMakeFiles/Case_3.dir/Pedido.cpp.i
+.PHONY : Pedido.cpp.i
+
+Pedido.s: Pedido.cpp.s
+.PHONY : Pedido.s
+
+# target to generate assembly for a file
+Pedido.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Case_3.dir\build.make CMakeFiles/Case_3.dir/Pedido.cpp.s
+.PHONY : Pedido.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -161,6 +233,15 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Case_3
+	@echo ... Bodega.obj
+	@echo ... Bodega.i
+	@echo ... Bodega.s
+	@echo ... MontaCarga.obj
+	@echo ... MontaCarga.i
+	@echo ... MontaCarga.s
+	@echo ... Pedido.obj
+	@echo ... Pedido.i
+	@echo ... Pedido.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
